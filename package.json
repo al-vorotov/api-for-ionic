@@ -26,6 +26,6 @@
     "default-admin": "node ./config/database/createDefaultAdmin.js"
   },
   "keywords": [],
-  "author": "alexander-kucheryavenko",
+  "author": "alexander-vorotov",
   "license": "ISC"
 }

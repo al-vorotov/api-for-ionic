@@ -43,7 +43,7 @@ you will get a default user with admin rights
 { email: 'root@mail.com', password: 'root' } 
 
 
-Also for those who use docker, I added the ability to work with our application without installing a database, they can go to the docker branch and run the command
+Also you can use docker, I added the ability to work with our application without installing a database, they can run the command
 ```docker-compose up --build```
 
 the application will be available on the same local port as in development mode
